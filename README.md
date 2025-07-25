@@ -7,6 +7,8 @@
 
 A comprehensive computer vision project demonstrating the evolution from traditional machine learning (HOG+SVM) to modern deep learning (YOLOv8) for human face detection. This project achieves **95.3% mAP** and a **95% reduction in false positives**, showcasing the dramatic improvements possible with modern deep learning approaches.
 
+[![preview_image_1](https://github.com/jayanthmani8045/HumanFaceDetectionSystem/blob/main/preview/1.png)]
+
 ## 🎯 Project Overview
 
 This project implements and compares two face detection approaches:
