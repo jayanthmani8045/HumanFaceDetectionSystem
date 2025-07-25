@@ -1,0 +1,7 @@
+names:
+  0: face
+nc: 1
+path: D:\NEU\machine learning\OD\yolo_dataset
+test: test/images
+train: train/images
+val: val/images
