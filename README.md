@@ -1,18 +1,9 @@
 # 👤 Human Face Detection System
 
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)](https://opencv.org)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-yellow.svg)](https://github.com/ultralytics/ultralytics)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.24+-red.svg)](https://streamlit.io)
-
-A comprehensive computer vision project demonstrating the evolution from traditional machine learning (HOG+SVM) to modern deep learning (YOLOv8) for human face detection. This project achieves **95.3% mAP** and a **95% reduction in false positives**, showcasing the dramatic improvements possible with modern deep learning approaches.
-
 ![preview_image_1](https://github.com/jayanthmani8045/HumanFaceDetectionSystem/blob/main/preview/1.png)
 ![preview_image_2](https://github.com/jayanthmani8045/HumanFaceDetectionSystem/blob/main/preview/2.png)
 ![preview_image_3](https://github.com/jayanthmani8045/HumanFaceDetectionSystem/blob/main/preview/3.png)
 ![preview_image_4](https://github.com/jayanthmani8045/HumanFaceDetectionSystem/blob/main/preview/4.png)
-
-## 🎯 Project Overview
 
 This project implements and compares two face detection approaches:
 
@@ -32,9 +23,9 @@ This project implements and compares two face detection approaches:
 
 | Metric | HOG + SVM | YOLOv8 | Improvement |
 |--------|-----------|--------|-------------|
-| **Accuracy/mAP** | 96.6% | **95.3%** | Cleaner detection |
-| **Precision** | 95.0% | **90.5%** | More reliable |
-| **Recall** | 98.0% | **92.0%** | Consistent detection |
+| **Accuracy/mAP** | - | **95.3%** | Cleaner detection |
+| **Precision** | - | **90.5%** | More reliable |
+| **Recall** | - | **92.0%** | Consistent detection |
 | **Detections/Face** | ~194 | **1** | **95% reduction** |
 | **Speed** | 2000ms | **400ms** | **5x faster** |
 
@@ -132,6 +123,10 @@ This notebook contains:
 ✅ **Comprehensive documentation** enabling reproducibility and learning  
 
 ## 🛡️ Technologies Used
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green.svg)](https://opencv.org)
+[![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-yellow.svg)](https://github.com/ultralytics/ultralytics)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.24+-red.svg)](https://streamlit.io)
 
 **Core Libraries**: Python, OpenCV, scikit-learn, Ultralytics YOLOv8  
 **Data Science**: pandas, numpy, matplotlib, seaborn, plotly  
