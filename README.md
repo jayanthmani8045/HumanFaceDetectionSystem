@@ -29,7 +29,7 @@ This project implements and compares two face detection approaches:
 | **Detections/Face** | ~194 | **1** | **95% reduction** |
 | **Speed** | 2000ms | **400ms** | **5x faster** |
 
-## 🛠️ How It's Built
+## How It's Built
 
 ### 1. Comprehensive EDA & Data Analysis
 - **Dataset**: 3,350 face annotations across 2,204 images
@@ -52,7 +52,7 @@ This project implements and compares two face detection approaches:
 - **Performance comparison** visualizations and metrics
 - **Educational interface** showing traditional vs modern approaches
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Run the Application
 
@@ -91,7 +91,7 @@ This notebook contains:
 - **Performance evaluation** and comparison methodology
 - **Step-by-step learning** of both traditional and modern approaches
 
-## 💡 Key Learning Outcomes
+## Key Learning Outcomes
 
 ### Technical Skills Demonstrated
 - **Traditional Computer Vision**: HOG features, SVM classification, sliding window detection
@@ -105,7 +105,7 @@ This notebook contains:
 - **Real-world Application**: Production-ready deployment with business use cases
 - **Complete Pipeline**: From data analysis to model deployment
 
-## 🔮 Applications & Use Cases
+## Applications & Use Cases
 
 - **Security Systems**: Access control and surveillance
 - **Retail Analytics**: Customer demographics and behavior analysis  
@@ -113,14 +113,14 @@ This notebook contains:
 - **Automotive**: Driver attention and safety systems
 - **Entertainment**: Gaming and augmented reality applications
 
-## 📈 Project Highlights
+## Project Highlights
 
-✅ **Exceeded all targets** (95.3% mAP vs 85% requirement)  
-✅ **95% reduction in false positives** (194 → 1 detection per face)  
-✅ **5x faster inference** with cleaner, more accurate results  
-✅ **Complete educational journey** from traditional to modern CV  
-✅ **Production-ready deployment** with interactive web interface  
-✅ **Comprehensive documentation** enabling reproducibility and learning  
+1. **Exceeded all targets** (95.3% mAP vs 85% requirement)  
+2. **95% reduction in false positives** (194 → 1 detection per face)
+3. **5x faster inference** with cleaner, more accurate results
+4. **Complete educational journey** from traditional to modern CV
+5. **Production-ready deployment** with interactive web interface
+6. **Comprehensive documentation** enabling reproducibility and learning  
 
 ## 🛡️ Technologies Used
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
@@ -133,7 +133,7 @@ This notebook contains:
 **Deployment**: Streamlit, PIL, joblib  
 **Development**: Jupyter, Git, professional documentation standards  
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs or suggest improvements
@@ -141,10 +141,9 @@ Contributions are welcome! Feel free to:
 - Improve documentation or examples
 - Share your own face detection implementations
 
-## 📞 Contact
+## Contact
 
 - **GitHub**: [jayanthmani8045](https://github.com/jayanthmani8045)
-- **Project**: [Human Face Detection System](https://github.com/jayanthmani8045/HumanFaceDetectionSystem.git)
 
 ---
 
