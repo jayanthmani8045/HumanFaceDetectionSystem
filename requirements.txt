@@ -6,3 +6,6 @@ scikit-learn
 PyYAML
 tqdm
 ipykernel
+streamlit
+seaborn
+ultralytics
